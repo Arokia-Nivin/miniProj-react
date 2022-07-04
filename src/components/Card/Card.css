@@ -1,0 +1,5 @@
+.card
+{
+    clip-path: polygon(0 1%, 100% 0%, 100% 98%, 0% 100%);
+    text-align: center;
+}
